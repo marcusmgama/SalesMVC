@@ -42,3 +42,4 @@ C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\
 C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
