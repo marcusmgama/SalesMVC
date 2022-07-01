@@ -47,3 +47,6 @@ C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\
 C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\marcu\Desktop\backup\Marcus\Faculdade\TI 3 - Prof. José Neves\projeto\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs

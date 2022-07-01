@@ -36,9 +36,18 @@ namespace SalesMVC.Services
 
         public async Task RemoveAsync (int id)
         {
+
+            //Tratamento de erro a integridade referencial da base de dados.(Vendedores que possuem vendas não podem ser removidos da base de dados)
+            try
+            {
             var obj = await _context.Seller.FindAsync(id);
             _context.Seller.Remove(obj);
             await _context.SaveChangesAsync();
+            }
+            catch(DbUpdateException e)
+            {
+                throw new IntegrityException("Can't delete seller because she/her has sales!");
+            }
         }
 
         public async Task UpdateAsync(Seller obj)
